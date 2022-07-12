@@ -1,4 +1,4 @@
-package com.reactnativedemo.newarchitecture.components;
+package io.plugin.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;
